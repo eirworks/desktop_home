@@ -1,0 +1,13 @@
+name: desktop_home
+version: 1.0.0
+description: A library to get desktop OSes home directory.
+platforms:
+  - linux
+  - windows
+  - macos
+environment:
+  sdk: '^3.0.0'
+
+dev_dependencies:
+  test: any
+  mockito: any
